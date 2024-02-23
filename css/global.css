@@ -145,8 +145,8 @@ main {
   outline-offset: -0.4rem;
 }
 .c-product-card__btn:hover {
-  background: var(--color-brunswick-green);
   border-color: var(--color-brunswick-green);
+  background: var(--color-brunswick-green);
 }
 .c-product-card__btn:active {
   transform: scale(0.95);
